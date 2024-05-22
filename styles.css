@@ -19,6 +19,7 @@ body {
     font-size: 60px;
     color: rgb(243, 237, 208);
     margin: 10px 0px 25px 10px;
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
     /* background-color: #00aa20; */
 }
 
